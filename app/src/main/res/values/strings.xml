@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseNotification</string>
+    <string name="lanzar_notificacion">Lanzar Notificación</string>
+    <string name="msg_token_fmt">"FCM Registration Token: "</string>
+    <string name="titulo">Titulo</string>
+    <string name="body">body</string>
+
+</resources>

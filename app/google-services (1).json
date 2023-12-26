@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225339973403",
+    "firebase_url": "https://proyectoattackervictim-default-rtdb.firebaseio.com",
+    "project_id": "proyectoattackervictim",
+    "storage_bucket": "proyectoattackervictim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225339973403:android:4ea9c9f07afb57a1fa3dbe",
+        "android_client_info": {
+          "package_name": "com.attackervictim.firebasenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNaJ9HQOKG50REw3ecGWmJhozOugFjn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

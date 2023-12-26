@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43742598392",
+    "project_id": "attackervictim-firebase",
+    "storage_bucket": "attackervictim-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43742598392:android:bce3c4a92b2f8ee384570d",
+        "android_client_info": {
+          "package_name": "com.attackervictim.firebasenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoaFFWWFak8O803Ske4qTvDoFt9X4Uduk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
